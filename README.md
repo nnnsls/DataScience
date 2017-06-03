@@ -1,2 +1,2 @@
-# Data_Science
+# DataScience
 Data Science Workbench
