@@ -20,7 +20,7 @@ Python and R Examples of
 ## Factor Analysis
 Python and R Examples of
   1. Principal Component Analysis
-Also Lisrel Examples of
+### Also Lisrel Examples of
   2. Structural Equation Modelling
 
 ## Recommendation
